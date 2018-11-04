@@ -21,7 +21,7 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 # A list of internal milestones up until project milestone 2
 
-NTIL 7th NOV.
+UNTIL 7th NOV.
 1.	Data exploration and cleaning to avoid any issues in future analysis and to understand which are the potential problems related to IRA dataset.
 2.	Select a pseudo-random subset to test our solutions.
 3.	Try to find information about the google searches related to a particular topic and understand how we can combine with IRA dataset.
