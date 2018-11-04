@@ -24,14 +24,14 @@ UNTIL 7th NOV.
 2.	Select a pseudo-random subset to test our solutions.
 3.	Try to find information about the google searches related to a particular topic and understand how we can combine with IRA dataset.
 
-UNTIL 13th NOV
+UNTIL 13th NOV.
 1.	Look at the distribution of the tweets' regions or languages to find some interesting pattern.
 2.	Look at distribution of tweets over the time.
 3.	Understand which are the most common number of following or followers the handles sending the tweet have.
 4.	Try to find a correlation between keywords and number of retweets/likes and political affiliation.
 5.	Try to understand how we can identify key words in the text of the tweet.
 
-UNTIL 25th NOV(Deadline)
+UNTIL 25th NOV.(Deadline)
 1.	Select only Italy and U.S.A. IRA tweets and compare them using previous points.
 2.	Retrieve information of the changing popularity of different political parties over the time and compare it to IRA dataset.
 3.	Retrieve information about key words in the text of the tweets.
