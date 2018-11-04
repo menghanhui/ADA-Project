@@ -15,9 +15,14 @@ In particular, we would like to see correlations between keywords and number of 
 
 # Dataset
 The key points of our analysis will be based on the IRA dataset. Further sources of information will come from Google trends, especially for what concerns interest on topics or political parties and leaders.
+The aim is to find anything interesting which allows us to show that it is a social problem and to provide people some common patterns in these tweets to avoid being deceived.
+This could be done using information we have for each tweet, author, region, language, number of following and followers. The size of the csv file (3 million Russian 
+troll tweets) could be a problem, for this reason it is better to start working on a subset and only at the end find results on the entire dataset.
 
 TO DO:
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+List the dataset(s) you want to use, and some ideas on how do you expect to get, 
+manage, process and enrich it/them. Show us you've read the docs and some examples, 
+and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 # A list of internal milestones up until project milestone 2
 
