@@ -10,7 +10,7 @@ In particular, we would like to see correlations between keywords and number of 
 3.	Are there correlations between themes touched by trolls and changing popularity of different political parties?
 4.	According to the number of following or followers, which are the potential profile could be associated to Troll Tweets?
 5.	Considering left and right trolls, is it possible to find main accusations they make against the other party (racism,...)?
-6.	POSSIBLE SUGGESTION : Are trending keywords in the tweets associated with an increased number of Google searches related to the topic?
+6.	SUGGESTION : Are trending keywords in the tweets associated with an increased number of Google searches related to the topic?
 
 
 # Dataset
@@ -46,7 +46,7 @@ UNTIL 25th NOV(Deadline)
 
 
 # Questions for TAa
-1.	Is it a feasible idea looking at sources about Google trends, especially the argument of pages searched?
-2. How can we utilise the Kaggle dataset? It contains 3 million tweets, it is not efficient for us to download al of them. Is there a way for us to analyse them online?
+1. Is it a feasible idea looking at sources about Google trends, especially the argument of pages searched?
+2. How can we utilise the Kaggle dataset? It contains 3 million tweets, it is not efficient for us to download all of them. Is there a way for us to analyse them online?
 3. How should we modify our research goals to make it more close to our theme "social good"?
 4. When we deal with different languages, such as Russian and Italian, is there a good way to transform them into English first?
