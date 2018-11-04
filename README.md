@@ -42,7 +42,6 @@ UNTIL 25th NOV(Deadline)
 1.	Select only Italy and U.S.A. IRA tweets and compare them using previous points.
 2.	Retrieve information of the changing popularity of different political parties over the time and compare it to IRA dataset.
 3.	Retrieve information about key words in the text of the tweets.
-4.	If there is enough time, try to use some Machine Learning tools (DA CONTROLLARE PRIMA DI INSERIRE NEL READ ME)
 
 
 # Questions for TAa
@@ -50,3 +49,4 @@ UNTIL 25th NOV(Deadline)
 2. How can we utilise the Kaggle dataset? It contains 3 million tweets, it is not efficient for us to download all of them. Is there a way for us to analyse them online?
 3. How should we modify our research goals to make it more close to our theme "social good"?
 4. When we deal with different languages, such as Russian and Italian, is there a good way to transform them into English first?
+5. According to us, it could be interesting using unsupervised learning (clustering maybe), to try to classify them according to some criteria. Is it a feasible idea?
