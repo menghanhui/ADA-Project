@@ -11,17 +11,17 @@ In particular, we would like to see correlations between keywords and number of 
 4.	According to the number of following or followers, which are the potential profile could be associated to Troll Tweets?
 5.	Considering left and right trolls, is it possible to find main accusations they make against the other party (racism,...)?
 6.	POSSIBLE SUGGESTION : Are trending keywords in the tweets associated with an increased number of Google searches related to the topic?
- 
+
 
 # Dataset
 The key points of our analysis will be based on the IRA dataset. Further sources of information will come from Google trends, especially for what concerns interest on topics or political parties and leaders.
 The aim is to find anything interesting which allows us to show that it is a social problem and to provide people some common patterns in these tweets to avoid being deceived.
-This could be done using information we have for each tweet, author, region, language, number of following and followers. The size of the csv file (3 million Russian 
+This could be done using information we have for each tweet, author, region, language, number of following and followers. The size of the csv file (3 million Russian
 troll tweets) could be a problem, for this reason it is better to start working on a subset and only at the end find results on the entire dataset.
 
 TO DO:
-List the dataset(s) you want to use, and some ideas on how do you expect to get, 
-manage, process and enrich it/them. Show us you've read the docs and some examples, 
+List the dataset(s) you want to use, and some ideas on how do you expect to get,
+manage, process and enrich it/them. Show us you've read the docs and some examples,
 and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 # A list of internal milestones up until project milestone 2
@@ -47,3 +47,6 @@ UNTIL 25th NOV(Deadline)
 
 # Questions for TAa
 1.	Is it a feasible idea looking at sources about Google trends, especially the argument of pages searched?
+2. How can we utilise the Kaggle dataset? It contains 3 million tweets, it is not efficient for us to download al of them. Is there a way for us to analyse them online?
+3. How should we modify our research goals to make it more close to our theme "social good"?
+4. When we deal with different languages, such as Russian and Italian, is there a good way to transform them into English first?
