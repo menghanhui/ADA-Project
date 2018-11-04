@@ -12,20 +12,13 @@ In particular, we would like to see correlations between keywords and number of 
 5.	Considering left and right trolls, is it possible to find main accusations they make against the other party (racism,...)?
 6.	SUGGESTION : Are trending keywords in the tweets associated with an increased number of Google searches related to the topic?
 
-
 # Dataset
 The key points of our analysis will be based on the IRA dataset. Further sources of information will come from Google trends, especially for what concerns interest on topics or political parties and leaders.
 The aim is to find anything interesting which allows us to show that it is a social problem and to provide people some common patterns in these tweets to avoid being deceived.
 This could be done using information we have for each tweet, author, region, language, number of following and followers. The size of the csv file (3 million Russian
 troll tweets) could be a problem, for this reason it is better to start working on a subset and only at the end find results on the entire dataset.
 
-TO DO:
-List the dataset(s) you want to use, and some ideas on how do you expect to get,
-manage, process and enrich it/them. Show us you've read the docs and some examples,
-and you've a clear idea on what to expect. Discuss data size and format if relevant.
-
 # A list of internal milestones up until project milestone 2
-
 UNTIL 7th NOV.
 1.	Data exploration and cleaning to avoid any issues in future analysis and to understand which are the potential problems related to IRA dataset.
 2.	Select a pseudo-random subset to test our solutions.
@@ -42,7 +35,6 @@ UNTIL 25th NOV(Deadline)
 1.	Select only Italy and U.S.A. IRA tweets and compare them using previous points.
 2.	Retrieve information of the changing popularity of different political parties over the time and compare it to IRA dataset.
 3.	Retrieve information about key words in the text of the tweets.
-
 
 # Questions for TAa
 1. Is it a feasible idea looking at sources about Google trends, especially the argument of pages searched?
