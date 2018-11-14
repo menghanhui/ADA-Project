@@ -30,6 +30,7 @@ UNTIL 13th NOV.
 3.	Understand which are the most common number of following or followers the handles sending the tweet have.
 4.	Try to find a correlation between keywords and number of retweets/likes and political affiliation.
 5.	Try to understand how we can identify key words in the text of the tweet.
+6.  What is the most frequent keyword that appear in tweets with most followers?
 
 UNTIL 25th NOV.(Deadline)
 1.	Select only Italy and U.S.A. IRA tweets and compare them using previous points.
