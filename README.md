@@ -1,45 +1,58 @@
 # Title
 
 # Abstract
-The phenomenon of Russian trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general. Somehow, it is easy to get the impression that we are being manipulated by some entity trying to impose a certain mindset and political climate of division. What citizens would ideally aim to, instead, is to take independent and informed decisions which are not spurred by heated online debates encouraged by Russian agencies. This is particularly relevant to us as two of our team members come from Italy, a country which has allegedly been heavily influenced by Russian trolls during the 2018 general elections. The IRA dataset thus offers the perfect chance to investigate trends and patterns of IRA tweets, in order to get insight on the mechanism followed by trolls which threaten the regular functioning of a society.
-In particular, we would like to see correlations between keywords and number of retweets or likes and political affiliation. Furthermore, we are interested in a comparison between Italian and US tweets, also to shed light on the increasing popularity of Putin in Italy. Lastly, we aim to find the themes which drive the discussions, maybe investigating correlations with news events or trends in the popularity of different parties.
+The phenomenon of Russian trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general. Somehow, it is easy to get the impression that we are being manipulated by some entity trying to impose a certain mindset and political climate of division. What citizens would ideally aim to, instead, is to take independent and informed decisions which are not spurred by heated online debates encouraged by Russian agencies. This is particularly relevant to us as two of our team members come from Italy, a country which has allegedly been heavily influenced by Russian trolls during the 2018 general elections. 
+While most of the research until now has focused on the role of IRA by considering the US tweets, we want to draw attention on the characteristics of the Italian tweets. Our analysis explores the characteristics of the IRA twitter authors and the features of their tweets. We want to gain insight on how the IRA operated and thus look for textual patterns, time development and topic distributions and places of interests. 
+We claim that it is possible to witness a strategy implemented by IRA to highlight the weaknesses of the Italian system and stimulate divisiveness within the society.
+Lastly, we evaluate relevant differences and similarities between US and Italian troll tweets.
 
 # Research questions
-1.	Is there a correlation between keywords and number of retweets/likes and political affiliation?
-2.	To what extent and in what way do trolls behave differently in the US and Italy?
-3.	Are there correlations between themes touched by trolls and changing popularity of different political parties?
-4.	According to the number of following or followers, which are the potential profile could be associated to Troll Tweets?
-5.	Considering left and right trolls, is it possible to find main accusations they make against the other party (racism,...)?
-6.	SUGGESTION : Are trending keywords in the tweets associated with an increased number of Google searches related to the topic?
+1.	How are the tweet authors distributed in terms on number of accounts followed and followers? What is their level of daily activity?
+    We see that there is a tendency to diverisfy large and small accounts.
+2.  Is there an interest on Italian politics? How is activity of the leaders of the main political parties covered?
+    We see that the leader of the centre-left party, is the subject of more tweets than are the leaders of populist parties. However, the difference is not large considering that he was Prime Minister during the publication of the tweets.
+2.	Is there an interest on some Italian regions? 
+    We see that the regions of Southern Italy, who suffer more socio-economic problems and were key in contributing to the election of the populist parties, are the subject of a high number of tweets considering their smaller population.
+3.	Is there an explanation for the oscillating number of tweets produced by trolls in different times?
+    We see that tweets are more frequent in three cases: migratory crisis, terrorists attacks and significant political moments for the country.
+4.	Are there main topics tretaed by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
+5.	Is there a structure on the relationships between troll authors? Is it possible to construct a meaningful network of this?
 
 # Dataset
-The key points of our analysis will be based on the IRA dataset. Further sources of information will come from Google trends, especially for what concerns interest on topics or political parties and leaders.
-The aim is to find anything interesting which allows us to show that it is a social problem and to provide people some common patterns in these tweets to avoid being deceived.
-This could be done using information we have for each tweet, author, region, language, number of following and followers. The size of the csv file (3 million Russian
-troll tweets) could be a problem, for this reason it is better to start working on a subset and only at the end find results on the entire dataset.
+The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
+US tweets are used in order to establish differences between the strategy of the trolls in the US and in Italy.
+Further sources of information might come from Google trends, especially for what concerns interest on topics or political parties and leaders.
+This could be done using information we have for each tweet: content, author, region, language, number of following and followers.
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up until project milestone 3
 UNTIL 7th NOV.
-1.	Data exploration and cleaning to avoid any issues in future analysis and to understand which are the potential problems related to IRA dataset.
-2.	Select a pseudo-random subset to test our solutions.
-3.	Try to find information about the google searches related to a particular topic and understand how we can combine with IRA dataset.
+Data exploration and cleaning.
+Selection of the Italian and US tweets subset.
 
 UNTIL 13th NOV.
-1.	Look at the distribution of the tweets' regions or languages to find some interesting pattern.
-2.	Look at distribution of tweets over the time.
-3.	Understand which are the most common number of following or followers the handles sending the tweet have.
-4.	Try to find a correlation between keywords and number of retweets/likes and political affiliation.
-5.	Try to understand how we can identify key words in the text of the tweet.
-6.  What is the most frequent keyword that appear in tweets with most followers?
+Tweet authors characteristics: followers and following, frequency of tweet production.
+Geographical analysis: mentionss of differenti Italian regions in troll tweets.
+Coverage of Italian parties leaders: mention of political leaders, Renzi, Salvini, Grillo.
 
-UNTIL 25th NOV.(Deadline)
-1.	Select only Italy and U.S.A. IRA tweets and compare them using previous points.
-2.	Retrieve information of the changing popularity of different political parties over the time and compare it to IRA dataset.
-3.	Retrieve information about key words in the text of the tweets.
+UNTIL 25th NOV
+Time analysis: evolution over time of number of tweets produced by trolls.
+Data Mining foundations: association rules and clustering.
+Frequent topics covered by trolls, cloud of words.
+Network analysis foundations: the system of trolls.
+
+UNTIL 2nd DEC.
+Clustering and Association rules: development.
+Network Analysis: completion.
+Geographical analysis: display results.
+
+UNTIL 9th DEC.
+Sentiment analysis.
+Comparison with the US.
+Look at the bigger picture: consider timing, topics, geography and clusters to illustrate the strategy implemented by trolls.
+
+Until 16th DEC.
+Prepare the final output!
+
 
 # Questions for TAa
-1. Is it a feasible idea looking at sources about Google trends, especially the argument of pages searched?
-2. How can we utilise the Kaggle dataset? It contains 3 million tweets, it is not efficient for us to download all of them. Is there a way for us to analyse them online?
-3. How should we modify our research goals to make it more close to our theme "social good"?
-4. When we deal with different languages, such as Russian and Italian, is there a good way to transform them into English first?
-5. According to us, it could be interesting using unsupervised learning (clustering maybe), to try to classify them according to some criteria. Is it a feasible idea?
+We would like to display the Italian map, and achieve something like we did in HW2 for Switzerland. Any sugestion on where to find similar geojson files for Italy?
