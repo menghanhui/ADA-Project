@@ -10,23 +10,19 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 Lastly, we evaluate relevant differences and similarities between US and Italian troll tweets.
 
 # Research questions
-1.	How are the tweet authors distributed in terms on number of accounts followed and followers? What is their level of daily activity?
-
+1.	How are the tweet authors distributed in terms on number of accounts followed and followers? What is their level of daily activity?<br />
     We see that there is a tendency to diverisfy large and small accounts.
-2.  Is there an interest on Italian politics? How is activity of the leaders of the main political parties covered?
-
+2.  Is there an interest on Italian politics? How is activity of the leaders of the main political parties covered?<br />
     We see that the leader of the centre-left party, is the subject of more tweets than are the leaders of populist parties. However, the difference is not large considering that he was Prime Minister during the publication of the tweets.
-2.	Is there an interest on some Italian regions? 
-
+3.	Is there an interest on some Italian regions? <br />
     We see that the regions of Southern Italy, who suffer more socio-economic problems and were key in contributing to the election of the populist parties, are the subject of a high number of tweets considering their smaller population.
-3.	Is there an explanation for the oscillating number of tweets produced by trolls in different times?
-
+4.	Is there an explanation for the oscillating number of tweets produced by trolls in different times? <br />
     We see that tweets are more frequent in three cases: migratory crisis, terrorists attacks and significant political moments for the country.
-4.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
-5.	Is there a structure on the relationships between troll authors? Is it possible to construct a meaningful network of this?
-6. Generate a Network Analysis among authors and their citations. What are the most popular citations? What is the relationship between authors and citations?
-7. Analyse the frequency of retweets regarding with different topics, such as: rights/human/civil/shooting….
-8. What is the relationship between peak time of tweets/retweets and important political events in Italy and US?
+5.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
+6.	Is there a structure on the relationships between troll authors? Is it possible to construct a meaningful network of this?
+7. Generate a Network Analysis among authors and their citations. What are the most popular citations? What is the relationship between authors and citations?
+8. Analyse the frequency of retweets regarding with different topics, such as: rights/human/civil/shooting….
+9. What is the relationship between peak time of tweets/retweets and important political events in Italy and US?
 
 # Dataset
 The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
