@@ -15,7 +15,7 @@ Lastly, we evaluate relevant differences and similarities between US and Italian
     We see that the regions of Southern Italy, who suffer more socio-economic problems and were key in contributing to the election of the populist parties, are the subject of a high number of tweets considering their smaller population.
 3.	Is there an explanation for the oscillating number of tweets produced by trolls in different times?
     We see that tweets are more frequent in three cases: migratory crisis, terrorists attacks and significant political moments for the country.
-4.	Are there main topics tretaed by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
+4.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
 5.	Is there a structure on the relationships between troll authors? Is it possible to construct a meaningful network of this?
 
 # Dataset
@@ -55,4 +55,5 @@ Prepare the final output!
 
 
 # Questions for TAa
-We would like to display the Italian map, and achieve something like we did in HW2 for Switzerland. Any sugestion on where to find similar geojson files for Italy?
+1. We would like to display the Italian map, and achieve something like we did in HW2 for Switzerland. Any sugestion on where to find similar geojson files for Italy?
+2. How could we adjust our project direction to make the result aim closer at "social good"?
