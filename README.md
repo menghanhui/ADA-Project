@@ -54,6 +54,6 @@ Until 16th DEC.
 Prepare the final output!
 
 
-# Questions for TAa
+# Questions for TAs
 1. We would like to display the Italian map, and achieve something like we did in HW2 for Switzerland. Any sugestion on where to find similar geojson files for Italy?
 2. How could we adjust our project direction to make the result aim closer at "social good"?
