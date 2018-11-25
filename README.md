@@ -17,6 +17,9 @@ Lastly, we evaluate relevant differences and similarities between US and Italian
     We see that tweets are more frequent in three cases: migratory crisis, terrorists attacks and significant political moments for the country.
 4.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? How do these compare with the activity of trolls in the US?
 5.	Is there a structure on the relationships between troll authors? Is it possible to construct a meaningful network of this?
+6. Generate a Network Analysis among authors and their citations. What are the most popular citations? What is the relationship between authors and citations?
+7. Analyse the frequency of retweets regarding with different topics, such as: rights/human/civil/shooting….
+8. What is the relationship between peak time of tweets/retweets and important political events in Italy and US?
 
 # Dataset
 The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
