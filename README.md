@@ -1,6 +1,6 @@
-### Italians do it better - than trolls!
+# Italians do it better - than trolls!
 
-# Abstract
+### Abstract
 The phenomenon of Russian trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general. Somehow, it is easy to get the impression that we are being manipulated by some entity trying to impose a certain mindset and political climate of division. What citizens would ideally aim to, instead, is to take independent and informed decisions which are not spurred by heated online debates encouraged by Russian agencies. This is particularly relevant to us as two of our team members come from Italy, a country which has allegedly been heavily influenced by Russian trolls during the 2018 general elections. 
 
 While most of the research until now has focused on the role of IRA by considering the US tweets, we want to draw attention on the characteristics of the Italian tweets. Our analysis explores the characteristics of the IRA twitter authors and the features of their tweets. We want to gain insight on how the IRA operated and thus look for textual patterns, time development and topic distributions and places of interests. 
@@ -9,7 +9,7 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 
 Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
 
-# Research questions
+### Research questions
 1.	How are the tweet authors distributed in terms on number of accounts followed and followers? What is their level of daily activity?<br />
     We see that there is a tendency to diverisfy large and small accounts.
 2.  Is there an interest on Italian politics? How is activity of the leaders of the main political parties covered?<br />
@@ -23,7 +23,7 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
 6.  What is the general sentiment of the tweets? <br />
     While topics covered are mostly negative (terror attacks, crisis, scandals...) it is not possible to find a prevalent sentiment in the tweets and even different political parties share the same sentiment levels.
 
-# Dataset
+### Dataset
 + The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
 
 + For Italian socio-economic data the main reference was ISTAT, the National Institute of Statistics.
@@ -32,7 +32,7 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
 
 + Economic indicators for some European countries (debt/GDP) were retrieved from the IMF.
 
-# A list of internal milestones up until project milestone 3
+### A list of internal milestones up until project milestone 3
 UNTIL 7th NOV.
 Data exploration and cleaning.
 Selection of the Italian tweets subset.
@@ -62,7 +62,7 @@ Write an introduction.
 Prepare the data story!
 
 
-# Members contribution
+### Members contribution
 1. Colusso Paolo: 
     
    + Notebook: Introduction and Texts, Authors: activity, Italian politicians, Geographical Analysis, Time Analysis, Association Rules, 
