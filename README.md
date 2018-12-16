@@ -65,6 +65,16 @@ Until 16th DEC.
 Prepare the final output!
 
 
-# Questions for TAs
-1. We would like to display the Italian map, and achieve something like we did in HW2 for Switzerland. Any sugestion on where to find similar geojson files for Italy?
-2. How could we adjust our project direction to make the result aim closer at "social good"?
+# Members contribution
+1. Colusso Paolo: 
+    Notebook (and comment): Introduction, Authors: activity, Italian politicians, Geographical Analysis, Time Analysis, Association Rules, 
+                            Data Mining Introduction, Italian Appendix
+    Data Story: The setting, the words, the dynamics
+2. Volpe Valerio: 
+    Notebook (and comment): Reading the data, Authors: following and followers, Tweets' research for Geographical Analysis, 
+                            Authors' Presentation: the Trolls, Data Mining: clustering, Association Rules, Sentiment Analysis, 
+                            Combine Sentiment Analysis and Political Parties
+    Data Stroy: The characters
+3. Hanhui Meng: 
+    Notebook (and comment): Retweet Analysis
+    Data Story: Retweet Analysis
