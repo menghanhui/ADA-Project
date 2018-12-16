@@ -1,4 +1,4 @@
-# Title
+### Italians do it better - than trolls!
 
 # Abstract
 The phenomenon of Russian trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general. Somehow, it is easy to get the impression that we are being manipulated by some entity trying to impose a certain mindset and political climate of division. What citizens would ideally aim to, instead, is to take independent and informed decisions which are not spurred by heated online debates encouraged by Russian agencies. This is particularly relevant to us as two of our team members come from Italy, a country which has allegedly been heavily influenced by Russian trolls during the 2018 general elections. 
