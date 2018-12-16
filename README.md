@@ -24,13 +24,13 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
     While topics covered are mostly negative (terror attacks, crisis, scandals...) it is not possible to find a prevalent sentiment in the tweets and even different political parties share the same sentiment levels.
 
 # Dataset
-The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
++ The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
 
-For Italian socio-economic data the main reference was ISTAT, the National Institute of Statistics.
++ For Italian socio-economic data the main reference was ISTAT, the National Institute of Statistics.
 
-YouTrend provided data for the results of the 2018 General Elections in Italy.
++ YouTrend provided data for the results of the 2018 General Elections in Italy.
 
-Data on the Debt/GDP for European countries were retrieved from the IMF.
++ Economic indicators for some European countries (debt/GDP) were retrieved from the IMF.
 
 # A list of internal milestones up until project milestone 3
 UNTIL 7th NOV.
@@ -40,7 +40,7 @@ Selection of the Italian and US tweets subset.
 UNTIL 13th NOV.
 Tweet authors characteristics: followers and following, frequency of tweet production.
 Geographical analysis: mentionss of differenti Italian regions in troll tweets.
-Coverage of Italian parties leaders: mention of political leaders, Renzi, Salvini, Grillo.
+Coverage of Italian parties leaders: mention of political leaders, Renzi, Salvini, Grillo, and respective parties.
 
 UNTIL 25th NOV
 Time analysis: evolution over time of number of tweets produced by trolls.
