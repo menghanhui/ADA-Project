@@ -69,12 +69,15 @@ Prepare the final output!
 1. Colusso Paolo: 
     Notebook (and comment): Introduction, Authors: activity, Italian politicians, Geographical Analysis, Time Analysis, Association Rules, 
                             Data Mining Introduction, Italian Appendix
+                            
     Data Story: The setting, the words, the dynamics
 2. Volpe Valerio: 
     Notebook (and comment): Reading the data, Authors: following and followers, Tweets' research for Geographical Analysis, 
                             Authors' Presentation: the Trolls, Data Mining: clustering, Association Rules, Sentiment Analysis, 
                             Combine Sentiment Analysis and Political Parties
+    
     Data Stroy: The characters
 3. Hanhui Meng: 
     Notebook (and comment): Retweet Analysis
+    
     Data Story: Retweet Analysis
