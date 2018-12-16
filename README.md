@@ -9,6 +9,8 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 
 Lastly, we evaluate relevant differences and similarities between US and Italian troll tweets.
 
+Please refer to our [Data Story Website]: (https://paolocolusso.github.io/)
+
 # Research questions
 1.	How are the tweet authors distributed in terms on number of accounts followed and followers? What is their level of daily activity?<br />
     We see that there is a tendency to diverisfy large and small accounts.
