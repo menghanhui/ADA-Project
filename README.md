@@ -35,30 +35,31 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
 # A list of internal milestones up until project milestone 3
 UNTIL 7th NOV.
 Data exploration and cleaning.
-Selection of the Italian and US tweets subset.
+Selection of the Italian tweets subset.
 
 UNTIL 13th NOV.
 Tweet authors characteristics: followers and following, frequency of tweet production.
-Geographical analysis: mentionss of differenti Italian regions in troll tweets.
+Geographical analysis: mentions of differenti Italian regions in troll tweets.
 Coverage of Italian parties leaders: mention of political leaders, Renzi, Salvini, Grillo, and respective parties.
 
 UNTIL 25th NOV
 Time analysis: evolution over time of number of tweets produced by trolls.
 Data Mining foundations: association rules and clustering.
 Frequent topics covered by trolls, cloud of words.
-Network analysis foundations: the system of trolls.
 
 UNTIL 2nd DEC.
 Clustering and Association rules: development.
-Network Analysis: completion.
 Geographical analysis: display results.
 
 UNTIL 9th DEC.
 Sentiment analysis.
+Retweet analysis.
 Look at the bigger picture: consider timing, topics, geography and clusters to illustrate the strategy implemented by trolls.
+Create an appendix.
 
 Until 16th DEC.
-Prepare the final output!
+Write an introduction.
+Prepare the data story!
 
 
 # Members contribution
@@ -80,4 +81,5 @@ Prepare the final output!
 3. Hanhui Meng: 
     
    + Notebook (and comment): Retweet Analysis
-    
+   
+   + Data Stroy: About us
