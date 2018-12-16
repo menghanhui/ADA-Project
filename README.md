@@ -18,19 +18,19 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
     We see that the regions of Southern Italy, who suffer more socio-economic problems and were key in contributing to the election of the populist parties, are the subject of a high number of tweets considering their smaller population. In addition, mention to places often reflects key interests of the local reality: mainly immigration in the North and social problems in the South.
 4.	Is there an explanation for the oscillating number of tweets produced by trolls in different times? <br />
     We see that tweets are more frequent in moments coinciding with: migratory crisis, terrorists attacks and significant political events for the country.
-5.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? 
+5.	Are there main topics treated by trolls? Is it possible to connect them to the main points of the  programmes of the populist parties? Is it possible to capture the presence of words often appearing together? <br />
     While tweets cover a broad range of topics, the main interest of trolls is on politics and on themes which reflect contemporary issues and are relevant to the Italian public: namely, migration, terrorism and political scandals. In addition, tweets turn out to be partinioned in groups based on their topic by means of clustering.
-6.  What is the general sentiment of the tweets?
+6.  What is the general sentiment of the tweets? <br />
     While topics covered are mostly negative (terror attacks, crisis, scandals...) it is not possible to find a prevalent sentiment in the tweets and even different political parties share the same sentiment levels.
 
 # Dataset
 The key points of our analysis will be derived from the IRA dataset. In particular, we exploit both the earlier version and the updated one. We select tweets in Italian, excluding the other ones for the main analysis.
 
-US tweets are used in order to establish differences between the strategy of the trolls in the US and in Italy.
+For Italian socio-economic data the main reference was ISTAT, the National Institute of Statistics.
 
-Further sources of information might come from Google trends, especially for what concerns interest on topics or political parties and leaders.
+YouTrend provided data for the results of the 2018 General Elections in Italy.
 
-This could be done using information we have for each tweet: content, author, region, language, number of following and followers.
+Data on the Debt/GDP for European countries were retrieved from the IMF.
 
 # A list of internal milestones up until project milestone 3
 UNTIL 7th NOV.
