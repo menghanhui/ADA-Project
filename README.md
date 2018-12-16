@@ -33,7 +33,7 @@ Please refer to our **Data Story Website: (https://paolocolusso.github.io/)**
 
 + Economic indicators for some European countries (debt/GDP) were retrieved from the IMF.
 
-### A list of internal milestones up until project milestone 3
+### A list of internal milestones
 UNTIL 7th NOV.
 Data exploration and cleaning.
 Selection of the Italian tweets subset.
